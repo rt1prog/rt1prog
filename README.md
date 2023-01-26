@@ -1,4 +1,4 @@
-<img align="left" src="info.svg">
+<img align="left" src="info.svg" heght="50px">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=051015&multiline=true&repeat=false&width=435&height=40&lines=Hi%2C+I'm+Artie+%E2%9C%8C%EF%B8%8F">
 
 <a href="https://rt1.site">rt1.site</a> | <a href="https://t.me/rt1prog">Telegram</a>
